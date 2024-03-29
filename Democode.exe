@@ -1,0 +1,12 @@
+git command for terminals
+git clone url
+git branch
+git checkout -b branchname sourcebranchname
+git status
+git add .
+git commit -m "commit messgage"
+git push origin branchname
+git config user.email "emailid'
+git config user.name
+
+End
